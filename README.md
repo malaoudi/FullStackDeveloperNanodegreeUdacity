@@ -13,12 +13,6 @@ This repository contains all the projects done as part of the [Full Stack Web De
 6. [Linux Server Configuration](Project6/)
 
 
-## Certificate
-
-[confirm.udacity.com/FPNZCKPZ](https://confirm.udacity.com/FPNZCKPZ)
-
-![Certificate](cert.png)
-
 
 ## License
 
